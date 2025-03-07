@@ -17,7 +17,7 @@ class DatabaseManager:
         self.user_id = None
 
     def connect_to_db(self):
-        host = '172.17.0.1'
+        host = 'localhost'
         port = '1521'
         dsn = cx_Oracle.makedsn(host, port, service_name=self.service_name)
         connection = cx_Oracle.connect(self.username, self.password, dsn)
