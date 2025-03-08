@@ -27,7 +27,7 @@ Aplikacja pozwala nam na zarządzanie danymi osobowymi pracowników naszej firmy
 ## Uruchomienie
 
 Należy otworzyć aplikację przeglądarki i wpisać jako adres URL http://localhost:5000/ <br>
-W pliku baza_danych/insertdata.sql od linii 261 znajdują się loginy pracowników. Hasło to password (w bazie dnaych są zapisane hasze haseł).
+W pliku baza_danych/insertdata.sql od linii 261 znajdują się loginy pracowników. Hasło to password (w bazie danych są zapisane hasze haseł).
 
 ## Inicjalizacja bazy danych
 
